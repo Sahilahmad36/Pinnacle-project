@@ -299,7 +299,7 @@ const Navbar = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       onClick={() => setInsuranceDropDown(false)}
-                    >
+                    > 
                       <span className="md:text-[0.8rem] relative hover:text-brightColor cursor-pointer">
                         Flood Insurance
                         <span className="absolute inset-x-0 bottom-0 h-0.5 bg-[#e4b077] transform scale-x-0 origin-left transition-transform hover:scale-x-100"></span>
